@@ -4,3 +4,4 @@ c=a+b
 print(c)
 for i in a:
   print(i)
+  print(i)
