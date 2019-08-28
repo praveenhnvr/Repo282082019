@@ -1,0 +1,2 @@
+s="Praveen"
+print(s)
